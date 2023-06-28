@@ -111,6 +111,11 @@ section .title::after{
 .navbar.sticky .logo a span{
     color: #fff;
 }
+
+.navbar .logo-image {
+    height: 1.5rem; /* Adjust the height as desired */
+    width: auto;
+}
 .navbar .menu li{
     list-style: none;
     display: inline-block;
