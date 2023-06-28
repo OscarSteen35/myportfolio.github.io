@@ -174,7 +174,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("https://cdn.pixabay.com/photo/2017/09/06/18/22/island-2722471_1280.jpg") no-repeat center;
+    background: url("https://cdn.pixabay.com/photo/2019/06/12/21/10/ocean-4270251_1280.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
