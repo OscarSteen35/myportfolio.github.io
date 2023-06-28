@@ -572,18 +572,22 @@ section .title::after{
   background: none;
 }
 /* footer section styling */
-footer{
-    background: #111;
-    padding: 15px 23px;
-    color: #fff;
-    text-align: center;
+footer {
+background: #111;
+padding: 15px 23px;
+color: #fff;
+text-align: center;
+font-size: 14px;
+font-weight: bold;
 }
-footer span a{
-    color: #00C5CD;
-    text-decoration: none;
+
+footer span a {
+color: #00C5CD;
+text-decoration: none;
 }
-footer span a:hover{
-    text-decoration: underline;
+
+footer span a:hover {
+text-decoration: underline;
 }
 
 
